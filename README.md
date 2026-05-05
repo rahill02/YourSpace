@@ -15,11 +15,11 @@ A full-stack note-taking web application.
 ## Setup
 
 ### Backend
-cd backend
-npm install
-npm run dev
+- cd backend
+- npm install
+- npm run dev
 
 ### Frontend
-cd frontend
-npm install
-npm run dev
+- cd frontend
+- npm install
+- npm run dev
